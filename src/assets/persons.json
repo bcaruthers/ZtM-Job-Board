@@ -12405,3 +12405,19 @@
     }
   ]
 }
+,{
+    "id": 861,
+    "name": "Bryant Caruthers",
+    "img": "https://res.cloudinary.com/dqejlzsb4/image/upload/v1590036761/bryan.jpg",
+    "links": {
+      "website": "http://bryantcaruthers.com",
+      "linkedin": "https://www.linkedin.com/in/bryantcaruthers/",
+      "github": "https://github.com/bcaruthers"
+    },
+    "jobTitle": "Web Designer",
+    "location": {
+      "city": "Nampa",
+      "state": "Idaho",
+      "country": "USA"
+    }
+  }
